@@ -68,4 +68,10 @@ An overnight hackathon conducted from 9 PM to 11 AM as part of the 8th Mile cele
 
 ---
 
+##  Faculty Advisors
+
+1. [Dr. Sagar BM ](https://www.linkedin.com/in/sagarbm/) 
+2. [Dr. Padmashree T](https://www.linkedin.com/in/dr-padmashree-t-87766ba3/)
+3. [Rekha B S](https://www.linkedin.com/in/rekha-b-s-65609a144/) 
+
 Assembled by RVCE students — commit message: “Create, Build, Innovate.”
